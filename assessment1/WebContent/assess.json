@@ -1,0 +1,94 @@
+{
+  "q1":{ 
+         "question":" Shantaram Laxman Naik, who passed away recently, was the former Congress chief of which state?",
+         "options":["Maharashtra",
+         "Goa",
+         " Bihar",
+         "Karnataka"]
+         ,
+         "result":"option2"
+        },
+        
+ "q2":{ 
+         "question":" Which of the following personalities is considered to be the originator of the Sankhya philosophy?",
+         "options":["Agastya Rishi",
+         "Adi Shankaracharya",
+         "Kapil Muni",
+         "Bharat Muni"]
+         ,
+         "result":"option3"
+        },
+   "q3":{ 
+         "question":"Which of the following personalities from India is the only winner of a Special Oscar in the history of Indian Cinema so far?",
+         "options":["Mrinal Sen",
+         "Shyam Bengal",
+         "Satyajit Ray",
+         "Mira Nair"]
+         ,
+         "result":"option3"
+        },
+   "q4":{ 
+         "question":"Mahatma Gandhi founded which of the following newspapers in 1903 at South Africa?",
+         "options":["Indian Opinion",
+         "Harijan",
+         "Indian Speaker",
+         "India News"]
+         ,
+         "result":"option1"
+        },
+    "q5":{ 
+         "question":"Which of the following was the author of the Arthashastra?",
+         "options":["Kalhan",
+         "Visakhadatta",
+         "Bana Bhatta",
+         "Chanakya"]
+         ,
+         "result":"option4"
+        },
+    "q6":{ 
+         "question":"The Chauri Chaura incident took place in 1922 and finds prominence in India national movement. Can you identify the state in which Chauri Chaura is located?",
+         "options":["Maharashtra",
+         "Uttar Pradesh",
+         "Rajasthan",
+         "Gujarat"]
+         ,
+         "result":"option2"
+        },
+    "q7":{ 
+         "question":"Which of the following positions was held by Mr. H.J. Kania for the first time in the history of India?",
+         "options":["Chief Justice of the Supreme Court of India",
+         "Attorney-General of India",
+         "Solicitor-General of India",
+         "None of them"]
+         ,
+         "result":"option1"
+        },
+    "q8":{ 
+         "question":"Who among the following is known as The Saint of Gutters?",
+         "options":["Baba Amte",
+         "Mother Teresa",
+         "Anna Hazare",
+         "None of them"]
+         ,
+         "result":"option2"
+        },
+    "q9":{ 
+         "question":"Which of the following is the capital of Ethiopia?",
+         "options":["Abuja",
+         "MDar es Salaam",
+         "Addis Ababa",
+         "Harare"]
+         ,
+         "result":"option3"
+        },
+    "q10":{ 
+         "question":" Which country football team has won the 2018 Intercontinental Cup football title?",
+         "options":["India",
+         "Sri Lanka",
+         "Kenya",
+         "Argentina"]
+         ,
+         "result":"option1"
+        }
+}
+        

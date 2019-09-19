@@ -1,0 +1,82 @@
+{
+  "q1":{ 
+         "question":" Shantaram Laxman Naik, who passed away recently, was the former Congress chief of which state?",
+         "o1":"Maharashtra",
+         "o2":"Goa",
+         "o3":" Bihar",
+         "o4":"Karnataka",
+         "result":"Goa"
+        },
+        "q2":{ 
+         "question":"Which country’s football team has won the 2018 Intercontinental Cup football title?",
+         "o1":"India",
+         "o2":"Sri Lanka",
+         "o3":"Kenya",
+         "o4":"Argentina",
+         "result":" India"
+        },
+        "q3":{ 
+         "question":"The Maratha and The Kesri were the two main newspapers started by which of the following people?",
+         "o1":"Lala Lajpat Rai",
+         "o2":"Gopal Krishna Gokhale",
+         "o3":"Bal Gangadhar Tilak",
+         "o4":"Madan Mohan Malviya",
+         "result":"Bal Gangadhar Tilak"
+        },
+        "q4":{ 
+         "question":"Which of the following personalities is considered to be the originator of the Sankhya philosophy?",
+         "o1":"Bharat Muni",
+         "o2":"Kapil Muni",
+         "o3":" Adi Shankaracharya",
+         "o4":"Agastya Rishi",
+         "result":"Kapil Muni"
+        },
+        "q5":{ 
+         "question":" Which of the following personalities from India is the only winner of a Special Oscar in the history of Indian Cinema so far?",
+         "o1":"Mrinal Sen",
+         "o2":"Shyam Bengal",
+         "o3":"Satyajit Ray",
+         "o4":"Mira Nair",
+         "result":"Satyajit Ray"
+        },
+        "q6":{ 
+         "question":"",
+         "o1":"",
+         "o2":"",
+         "o3":"",
+         "o4":"",
+         "result":""
+        },
+        "q7":{ 
+         "question":"abc",
+         "o1":"",
+         "o2":"",
+         "o3":"",
+         "o4":"",
+         "result":""
+        },
+        "q8":{ 
+         "question":"abc",
+         "o1":"",
+         "o2":"",
+         "o3":"",
+         "o4":"",
+         "result":""
+        },
+        "q9":{ 
+         "question":"",
+         "o1":"",
+         "o2":"",
+         "o3":"",
+         "o4":"",
+         "result":""
+        },
+        "q10":{ 
+         "question":"",
+         "o1":"",
+         "o2":"",
+         "o3":"",
+         "o4":"",
+         "result":""
+        }
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<script type="text/javascript" src="assess.json"></script>
+<script type="text/javascript" src="assess.js"></script>
+<link rel="stylesheet" type="text/css" href="button.css">
+<title>Insert title here</title>
+</head>
+<body onload="fetchjson('q1')">
+<div>
+<h1>check1</h1>
+<p id="question"></p>
+
+  <form name="question1"  onClick="return validateForm()">
+  <input  id="a" type="radio" name="op" > <p id="option1"></p> <br>
+  <input  id="b"  type="radio" name="op" > <p id="option2"></p><br>
+  <input  id="c" type="radio" name="op" > <p id="option3"> </p><br>
+  <input  id="d"  type="radio" name="op" > <p id="option4"></p> <br>
+  <input type="button" name="SubmitButton" value="Submit" >
+</form>
+<a href="assessment3.html"  class="previous"  onclick="return ValidateForm()">&laquo; Previous</a>
+<a href=" assessment2.html"class="next">Next &raquo;</a>
+ </div>
+</body>
+</html>

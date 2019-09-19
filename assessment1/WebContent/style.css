@@ -1,0 +1,33 @@
+h1 {
+    background-color:#400040;
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px 20px 5px 20px;
+    height : 70px;
+ }
+ 
+ body {
+ background-color:#c0c0c0;
+ color:white;
+ }
+ 
+#n {
+ font-size: 30px;
+ color:black;
+ float:right;
+ }
+ 
+#p {
+ font-size: 30px;
+ color:black;
+ float:left;
+ }
+ 
+ .ques{
+ font-size:30px;
+ }
+ 
+ #button {
+ font-size:20px;
+ }

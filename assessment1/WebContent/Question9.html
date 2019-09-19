@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<script type="text/javascript" src="assess.json"></script>
+<script type="text/javascript" src="assess.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<title>Insert title here</title>
+</head>
+<body onload="fetchjson('q9')">
+<div >
+<h2>QUESTION9</h2>
+<div class="ques">
+<p  id="question"></p>
+
+  <form name="question1"  onClick="return validateForm()">
+  <input  id="a" type="radio" name="op" > <label id="option1"></label> <br>
+  <input  id="b"  type="radio" name="op" > <label id="option2"></label><br>
+  <input  id="c" type="radio" name="op" > <label id="option3"> </label><br>
+  <input  id="d"  type="radio" name="op" > <label id="option4"></label> <br>
+ <!--   <input id="button"  type="button" name="SubmitButton" value="SaveYourAnswer" onclick="setcookie('q9')" >-->
+</form>
+<br>
+</div>
+<a id="p" href="Question8.html"  class="previous"  onclick="return ValidateForm()">&laquo; Previous</a>
+<a id="n" href=" Question10.html"class="next" onclick="return validateForm() && setcookie('q9')">Next &raquo;</a>
+</div>
+</body>
+</html>

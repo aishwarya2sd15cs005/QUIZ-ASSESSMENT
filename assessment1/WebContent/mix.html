@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<script type="text/javascript" src="assess.json"></script>
+<script type="text/javascript" src="assess.js"></script>
+</head>
+<body onload="fetchjson('q1')">
+<body>
+<div>
+<h1>QUESTION1</h1>
+<p id="question"></p>
+<form name="question1"  onClick="return validate();">
+  <input  id="o1"  type="radio" name="op" > <p id="option1"></p> <br>
+  <input  id="o2"  type="radio" name="op" > <p id="option2"></p><br>
+  <input  id="o3"  type="radio" name="op" > <p id="option3"> </p><br>
+  <input id="o4"  type="radio" name="op" > <p id="option4"></p> <br>
+  <input type="button" name="SubmitButton" value="Submit" >
+</form>
+</div>
+</body>
+</html>
